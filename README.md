@@ -69,4 +69,4 @@ Users should be able to:
 - [W3 Schools](https://www.w3schools.com/howto/howto_css_modals.asp) - Modal
 - [Medium](https://medium.com/@nerdplusdog/a-how-to-guide-for-modal-boxes-with-javascript-html-and-css-6a49d063987e) - Modal
 - [Sabe](https://sabe.io/tutorials/how-to-create-modal-popup-box) - Modal
-- [Stack Overflow](https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md)
+- [Stack Overflow](https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md) - images styling in markdown
